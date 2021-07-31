@@ -71,9 +71,13 @@ After this the data preprocessing is complete and now the data can be fed into t
 ## Metrics Used
 
 **Average Precision:** It is the Area Under the Precision-Recall Curve.
+
 **Accuracy:** Accuracy is the most intuitive performance measure and it is simply a ratio of correctly predicted observation to the total observations.
+
 **Precision:** Precision is the ratio of correctly predicted positive observations to the total predicted positive observations
+
 **ROC Curve:** An ROC curve (receiver operating characteristic curve) is a graph showing the performance of a classification model at all classification thresholds. This curve plots two parameters: True Positive Rate. False Positive Rate.
+
 **Confusion Matrix:** A confusion matrix is a table that is often used to describe the performance of a classification model (or "classifier") on a set of test data for which the true values are known.
 
 ## Conclusion
